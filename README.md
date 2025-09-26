@@ -20,9 +20,10 @@ Este repositorio contiene un análisis exploratorio de datos (EDA) del dataset d
 Para replicar este análisis, seguí los siguientes pasos:
 
 1.  Cloná este repositorio en tu máquina local.
-2.  Abrí el archivo `Análisis_de_datos_1.ipynb` en Google Colab o Jupyter.
-3.  Aseguráte de que el archivo `ventas.csv` esté en el mismo directorio.
-4.  Ejecutá las celdas del notebook secuencialmente para ver el flujo completo del análisis.
+2.  'git clone https://github.com/Hernan-G-94/An-lisis-de-datos.git'
+3.  Abrí el archivo `Análisis_de_datos_1.ipynb` en Google Colab o Jupyter.
+4.  Aseguráte de que el archivo `ventas.csv` esté en el mismo directorio.
+5.  Ejecutá las celdas del notebook secuencialmente para ver el flujo completo del análisis.
 
 ## Autor
 
